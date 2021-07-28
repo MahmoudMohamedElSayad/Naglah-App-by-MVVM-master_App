@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/Setting"
+        android:title="@string/edit"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/naglaty"
+        android:title="@string/myNaglah"
+        app:showAsAction="never"
+        />
+
+</menu>
